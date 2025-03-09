@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #002A5C;
+    color: white;
+    text-align: center;
+}
+header {
+    background: #FF8200;
+    padding: 20px;
+}
+.hero img {
+    width: 45%;
+    margin: 10px;
+    border-radius: 10px;
+}
+.bio, .interests {
+    background: white;
+    color: #002A5C;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+footer {
+    background: #FF8200;
+    padding: 10px;
+}
